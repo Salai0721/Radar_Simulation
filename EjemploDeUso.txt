@@ -1,0 +1,6 @@
+#Ejemplo de uso
+Cantidad de puntos en cada sector:
+   10   19   18   16   19    9   12   18   19   20   14   21   20   15   12   27   16   15
+Sector con la menor cantidad de puntos: 100-120 grados
+Cantidad de puntos en el sector con menos puntos: 9
+>> radarSimulation2(300,15) #Llamar a la función
